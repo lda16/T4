@@ -1,0 +1,5 @@
+/gps/particle gamma
+/gps/position 0 0 5 cm
+/gps/direction 0 0 -1
+/gps/energy 5 keV
+/run/beamOn 1

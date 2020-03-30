@@ -1,0 +1,5 @@
+/gps/particle ion
+/gps/ion 74 184 64 10
+/gps/position 2 2 10 cm
+/gps/direction 0 0 -1
+/gps/energy 500 GeV
